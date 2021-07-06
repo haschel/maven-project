@@ -1,1 +1,1 @@
-Hola mundo con un proyecto de maven!!
+Hola mundo con un proyecto de maven!
